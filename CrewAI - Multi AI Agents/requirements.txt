@@ -1,0 +1,6 @@
+crewai
+crewai[tools]
+load_dotenv
+youtube_transcript_api
+yt_dlp==2023.11.14 
+youtube-transcript-api==0.6.1
