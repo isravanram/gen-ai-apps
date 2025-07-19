@@ -1,0 +1,16 @@
+langchain-openai
+pandas
+numpy
+python-dotenv
+langchain-community
+langchain
+langchain_chroma
+langchain-core
+streamlit
+pypdf
+langchain_groq
+langchain_huggingface
+sentence-transformers
+wikipedia
+arxiv
+duckduckgo-search
