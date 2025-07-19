@@ -10,7 +10,3 @@ Welcome to a collection of **practical Generative AI applications and notebooks*
 - Graph query and semantic search
 - NVIDIA NIM for high-performance inference
 
----
-
-## 📂 Repository Structure
-
