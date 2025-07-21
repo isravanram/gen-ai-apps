@@ -5,6 +5,7 @@ Welcome to a collection of **practical Generative AI applications and notebooks*
 - LLMs (Open-source + Paid)
 - LangChain agents and chains
 - Retrieval-Augmented Generation (RAG)
+- Q&A Chatbots with Conversational History
 - Multi-agent systems using CrewAI
 - Document summarization
 - Graph query and semantic search
